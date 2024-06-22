@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios de módulos do Node
+node_modules/
+
+# Diretórios de build de produção
+dist/
+build/
+
+# Arquivos de cache do TypeScript
+*.tsbuildinfo
+
+# Diretórios de cache do pacote
+.pnpm
+.pnp
+.pnp.js
+
+# Diretórios Yarn Integrity
+.yarn-integrity
+
+# Arquivos de lock
+package-lock.json
+yarn.lock
+
+# Arquivos de compilação do TypeScript
+*.tsbuildinfo
+
+# VS Code
+.vscode/
+
+# Ambiente de Desenvolvimento
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dados de debug do IDE
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+.tmp
+.temp
