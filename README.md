@@ -1,5 +1,5 @@
 # Projeto de API
-
+Stack nodejs + typescript + TypeORM
 Este é um projeto de API para testar as rotas localmente.
 
 ## Pré-requisitos
